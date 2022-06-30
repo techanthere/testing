@@ -1,0 +1,8 @@
+TEXT_Created = 2022-06-29
+Block_HASH = 0x6e69766753085c8374f82bfd676c269a7a7a0296f07f34c97db52cb72547fef8
+Block_Height = 13345673
+Block_Version = 0.9.24-22836e55d41
+Zip_File_Name = kusama_RocksDB_13345673.tar.lz4
+ZIP_Created_Date = 2022-06-29
+Type: RocksDB
+Chain: kusama
